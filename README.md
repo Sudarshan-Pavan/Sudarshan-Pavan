@@ -44,8 +44,8 @@ An end-to-end sentiment analysis solution using VADER and TextBlob, applied to d
 💬 Let's collaborate! I'm always excited to work on challenging projects and contribute to impactful initiatives.
 📫 Connect With Me
 
-🌐 Portfolio: Coming Soon
-💼 LinkedIn: P S Pavan Kumar
+🌐 Portfolio: [My Portfolio](https://pspavankumar.netlify.app/)
+💼 LinkedIn: [P S Pavan Kumar](https://www.linkedin.com/in/pavan-kumar-02a4b6249/)
 📧 Email: pavan132204@gmail.com
 
 <!---
