@@ -129,19 +129,9 @@ Python • OpenCV • MediaPipe • PyAutoGUI
 
 📄 **Factors Influencing Effective Implementation of Business Analytics**
 
-Published in **AIP Publications**
+Published in [**AIP Publications**](https://pubs.aip.org/aip/acp/article-abstract/2971/1/020035/3296198/Factors-influencing-effective-implementation-of?redirectedFrom=PDF)
 
----
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sudarshan-Pavan&show_icons=true&theme=github_dark"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudarshan-Pavan&theme=github-dark"/>
-
-</p>
 
 ---
 
