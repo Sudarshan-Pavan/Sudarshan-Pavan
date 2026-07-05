@@ -164,6 +164,6 @@ Published in **AIP Publications**
 
 <p align="center">
 
-<i>"Building intelligent systems that connect AI with the real world."</i>
+# <i>"Building intelligent systems that connect AI with the real world."</i>
 
 </p>
