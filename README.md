@@ -145,15 +145,6 @@ Published in **AIP Publications**
 
 ---
 
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="[[https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan-Pavan&layout=compact&theme=github_dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan-Pavan&layout=compact&langs_count=8&theme=github_dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan-Pavan&layout=compact&hide_border=true&theme=github_dark)"/>
-
-</p>
-
----
 
 # 🤝 Let's Connect
 
