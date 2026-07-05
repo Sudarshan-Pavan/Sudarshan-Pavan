@@ -1,57 +1,169 @@
-Hi, I'm P S Pavan Kumar 👋
+<h1 align="center">Hi 👋, I'm Pulipaka Sudarshan Pavan Kumar</h1>
 
-🎓 B.Tech Student | Interested in Data Sciences | AI, ML & DL | Continual Learner | Creative Designer | Business Management and Outreach
-📍 Andhra Pradesh, India | Available for Remote and On-site Roles
+<h3 align="center">
+Software Engineer | AI & ML Engineer | Computer Vision | Embedded AI | Intelligent Systems
+</h3>
 
-Welcome to my GitHub! I'm a passionate B.Tech student with a unique blend of technical expertise in data analytics, machine learning, and cybersecurity, combined with over five years of experience in creative design and social media content creation.
+---
 
-🌟 What I Bring:
+## 🚀 About Me
 
-    Data Sciences: Skilled with Data analtics, Data visualization and Big data. First Author on research paper of business data analytics.
-    AI, ML & DL: First hand experience on multiple projects and courses using technologies from Machine learning to Agentic AI
-    Continual Learning Expertise: Skilled in implementing continual learning frameworks (e.g., DER, DER++) with models like SqueezeNet, EfficientNet, and MobileNet.
-    Data-Centric Problem Solving: Proven ability to handle large datasets, perform preprocessing, and use advanced techniques for hyperparameter optimization.
-    Research & Innovation: Writing a research paper on intrusion detection systems leveraging CNN models and continual learning methodologies.
-    Creative Vision: Over five years of experience in art and design, collaborating with international artists and creating custom designs for clients.
+I'm a Software Engineer passionate about building intelligent systems that bridge software with the physical world.
 
-💼 My Skillset:
-🛠️ Technical Skills
+My work spans **Artificial Intelligence**, **Computer Vision**, **Embedded Systems**, and **Agentic AI**, with a focus on developing end-to-end solutions rather than isolated machine learning models.
 
-    Programming & Tools: Python, PyQt, Data Visualization & Analytics, Arduino IDE
-    Technical: Machine Learning, Deep Learning, AI & NLP, Computer Vision, Continual
-    Learning, IoT (TinyML, Edge AI)
-    Design & UI/UX: Figma, 3D Designing
-    Other Skills: Business analytics & management, Communication, Team & Marketing Management
+I enjoy designing systems that combine AI, hardware, and automation to solve practical problems—from autonomous surveillance and agricultural intelligence to touchless human-computer interaction and AI-powered assistants.
 
-🎨 Creative Skills
+Currently expanding my expertise in **Agentic AI**, **LLM Function Calling**, and modern AI application development.
 
-    Designing personalized illustrations and promotional material.
-    Social media content creation tailored to audience preferences.
+---
 
-📂 Highlighted Projects
-🧠 Intrusion Detection System
+## 💻 Technical Skills
 
-A continual learning-based system using CNN models like SqueezeNet and MobileNet, with data converted from tabular CSV files to image datasets. Features advanced hyperparameter tuning (TPE) for optimal results.
-🎨 Custom Art Portfolio
+### Languages
 
-A collection of collaborative art projects, t-shirt designs, and personalized commissions for international clients.
-📊 Sentiment Analysis Toolkit
+- Python
+- Java
+- C
 
-An end-to-end sentiment analysis solution using VADER and TextBlob, applied to datasets with fields like Text, Sentiment, Timestamp, and User.
-✨ What Drives Me
+### Artificial Intelligence
 
-🌱 I'm constantly exploring the intersection of creativity and technology. From building intrusion detection systems to crafting engaging art pieces, I strive to merge analytical problem-solving with artistic innovation.
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- NLP
+- Continual Learning
+- Agentic AI
+- Prompt Engineering
 
-📘 I'm passionate about learning new frameworks and techniques while sharing my knowledge through well-documented code and tutorials.
+### Frameworks & Libraries
 
-💬 Let's collaborate! I'm always excited to work on challenging projects and contribute to impactful initiatives.
-📫 Connect With Me
+- TensorFlow
+- PyTorch
+- OpenCV
+- Scikit-Learn
+- MediaPipe
 
-🌐 Portfolio: [My Portfolio](https://pspavankumar.netlify.app/)
-💼 LinkedIn: [P S Pavan Kumar](http://www.linkedin.com/in/sudarshan-pavan-kumar-pulipaka/)
-📧 Email: pavan132204@gmail.com
+### Embedded Systems
 
-<!---
-Sudarshan-Pavan/Sudarshan-Pavan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Arduino
+- ESP32
+- Raspberry Pi
+- Edge AI
+
+### Development Tools
+
+- Git
+- GitHub
+- Fusion 360
+- Figma
+- PyQt
+
+---
+
+# 🚀 Featured Projects
+
+## 👁️ God's Eye
+
+Semi-autonomous intelligent drone surveillance system integrating Computer Vision, Embedded Systems, secure laser communication, Raspberry Pi edge computing, Arduino motor control, and custom-designed 3D printed tracking hardware.
+
+**Tech Stack**
+
+Python • OpenCV • Arduino • ESP32 • Raspberry Pi • YOLO • Fusion 360
+
+---
+
+## 🌱 CropGuard AI
+
+Research-oriented continual learning framework for crop disease classification using Amazon Renate and Teacher-Student Knowledge Distillation.
+
+Designed to overcome catastrophic forgetting while achieving **99.7% classification accuracy**.
+
+**Tech Stack**
+
+TensorFlow • Renate • OpenCV • Python • Transfer Learning
+
+---
+
+## 🏥 Skin Cancer Detection
+
+Custom CNN architecture developed from scratch for skin lesion classification using the HAM10000 dataset.
+
+Achieved **99.2% accuracy** after dataset balancing and preprocessing.
+
+---
+
+## 🏨 ConciergeAI
+
+LLM-powered hotel management assistant capable of handling room booking, check-in guidance, room service, and checkout using modular function-calling tools.
+
+**Tech Stack**
+
+Python • Gemini API • Agentic AI • Function Calling
+
+---
+
+## 🖐️ VisionDesk
+
+Computer Vision based Human-Computer Interaction system enabling touchless desktop control using gesture recognition, motion smoothing, and state-based gesture logic.
+
+**Tech Stack**
+
+Python • OpenCV • MediaPipe • PyAutoGUI
+
+---
+
+# 🌱 Current Focus
+
+- 🤖 Agentic AI
+- 🧠 Large Language Models
+- 📡 Intelligent Systems
+- 👁️ Computer Vision
+- ⚙️ Embedded AI
+- 🛰️ Edge Computing
+- 🏗️ Software Engineering
+
+---
+
+# 📚 Publications
+
+📄 **Factors Influencing Effective Implementation of Business Analytics**
+
+Published in **AIP Publications**
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sudarshan-Pavan&show_icons=true&theme=github_dark"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudarshan-Pavan&theme=github-dark"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarshan-Pavan&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+- 💼 LinkedIn: *(Add your LinkedIn URL)*
+- 📧 Email: **pavan132204@gmail.com**
+
+---
+
+<p align="center">
+
+<i>"Building intelligent systems that connect AI with the real world."</i>
+
+</p>
