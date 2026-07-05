@@ -157,7 +157,7 @@ Published in **AIP Publications**
 
 # 🤝 Let's Connect
 
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
+- 💼 [LinkedIn](http://www.linkedin.com/in/sudarshan-pavan-kumar-pulipaka)
 - 📧 Email: **pavan132204@gmail.com**
 
 ---
